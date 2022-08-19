@@ -3,10 +3,7 @@
 </div>
 
 ### Libraries used:
-
-- React with TypeScript
 - React-Router
-- Material-UI
 
 ## Install packages
 
